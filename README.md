@@ -21,6 +21,13 @@ Hungry yet humble third-year ICT student specializing in Applications Developmen
 - Diploma in ICT Applications Development *(In Progress)*
 
 ---
+# Mock Interview
+
+Here iss my Mock Interview:
+
+<video width="600" controls>
+  <source src="" type="video/mp">
+</video>
 
 ## Technical Skills
 
