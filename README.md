@@ -26,7 +26,7 @@ Hungry yet humble third-year ICT student specializing in Applications Developmen
 Here is my Mock Interview:
 
 <video width="600" controls>
-  <source src="1001232989 (2).mp4" type="video/mp">
+  <source src="1001232989 (2).mp4" type="video/mp4">
 </video>
 
 ## Technical Skills
