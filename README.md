@@ -26,7 +26,7 @@ Hungry yet humble third-year ICT student specializing in Applications Developmen
 Here is my Mock Interview:
 
 <video width="1000" controls>
-  <source src="1001232989%20%(2).mp4" type="video/mp4">
+  <source src="Interview.mp4" type="video/mp4">
 </video>
 
 Recording a mock interview video has provided an eye-opening rehearsal space where I can observe My tone, body language, pacing, and clarity of answers. By reviewing the video multiple times, I have learnt to structure responses effectively, manage my nerves, and project confidence whilst also identifying habits like mumbling a few words over and over again or lack of eye contact. This practice has hepled me build communication skills and prepared me to enter real interviews with greater poise and self-assurance.
